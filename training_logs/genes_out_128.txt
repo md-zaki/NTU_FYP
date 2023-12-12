@@ -1,0 +1,800 @@
+Epoch 1 of 100
+Training Loss (KL plus MSE): 949.5134
+Training Loss (MSE): 240.8539
+Training Loss (KL): 708.6595
+Val Loss: nan
+Val KL Loss: inf
+Val Recon Loss (MSE): nan
+
+Epoch 2 of 100
+Training Loss (KL plus MSE): 327.8416
+Training Loss (MSE): 240.8513
+Training Loss (KL): 86.9903
+Val Loss: nan
+Val KL Loss: inf
+Val Recon Loss (MSE): nan
+
+Epoch 3 of 100
+Training Loss (KL plus MSE): 291.4036
+Training Loss (MSE): 240.8493
+Training Loss (KL): 50.5543
+Val Loss: nan
+Val KL Loss: inf
+Val Recon Loss (MSE): nan
+
+Epoch 4 of 100
+Training Loss (KL plus MSE): 280.9445
+Training Loss (MSE): 240.8474
+Training Loss (KL): 40.0971
+Val Loss: inf
+Val KL Loss: inf
+Val Recon Loss (MSE): 240.8886
+
+Epoch 5 of 100
+Training Loss (KL plus MSE): 272.3374
+Training Loss (MSE): 240.8455
+Training Loss (KL): 31.4919
+Val Loss: 199315904489554871419142144.0000
+Val KL Loss: 199315904489554871419142144.0000
+Val Recon Loss (MSE): 240.8884
+
+Epoch 6 of 100
+Training Loss (KL plus MSE): 265.1696
+Training Loss (MSE): 240.8438
+Training Loss (KL): 24.3258
+Val Loss: 3254846372069842.5000
+Val KL Loss: 3254846372069842.5000
+Val Recon Loss (MSE): 240.8881
+
+Epoch 7 of 100
+Training Loss (KL plus MSE): 259.2979
+Training Loss (MSE): 240.8422
+Training Loss (KL): 18.4557
+Val Loss: 5991844603.7291
+Val KL Loss: 5991844485.1501
+Val Recon Loss (MSE): 240.8879
+
+Epoch 8 of 100
+Training Loss (KL plus MSE): 254.7037
+Training Loss (MSE): 240.8407
+Training Loss (KL): 13.8630
+Val Loss: 2905709.4210
+Val KL Loss: 2905468.5810
+Val Recon Loss (MSE): 240.8852
+
+Epoch 9 of 100
+Training Loss (KL plus MSE): 251.2200
+Training Loss (MSE): 240.8395
+Training Loss (KL): 10.3805
+Val Loss: 27065.6116
+Val KL Loss: 26824.7388
+Val Recon Loss (MSE): 240.8720
+
+Epoch 10 of 100
+Training Loss (KL plus MSE): 248.7298
+Training Loss (MSE): 240.8383
+Training Loss (KL): 7.8915
+Val Loss: 1555.7944
+Val KL Loss: 1314.9369
+Val Recon Loss (MSE): 240.8575
+
+Epoch 11 of 100
+Training Loss (KL plus MSE): 247.1143
+Training Loss (MSE): 240.8376
+Training Loss (KL): 6.2767
+Val Loss: 431.9781
+Val KL Loss: 191.1328
+Val Recon Loss (MSE): 240.8453
+
+Epoch 12 of 100
+Training Loss (KL plus MSE): 246.1639
+Training Loss (MSE): 240.8376
+Training Loss (KL): 5.3264
+Val Loss: 300.9634
+Val KL Loss: 60.1233
+Val Recon Loss (MSE): 240.8401
+
+Epoch 13 of 100
+Training Loss (KL plus MSE): 245.7026
+Training Loss (MSE): 240.8369
+Training Loss (KL): 4.8657
+Val Loss: 272.2495
+Val KL Loss: 31.4100
+Val Recon Loss (MSE): 240.8395
+
+Epoch 14 of 100
+Training Loss (KL plus MSE): 245.5738
+Training Loss (MSE): 240.8361
+Training Loss (KL): 4.7378
+Val Loss: 262.6922
+Val KL Loss: 21.8515
+Val Recon Loss (MSE): 240.8406
+
+Epoch 15 of 100
+Training Loss (KL plus MSE): 245.6066
+Training Loss (MSE): 240.8348
+Training Loss (KL): 4.7718
+Val Loss: 258.3366
+Val KL Loss: 17.4947
+Val Recon Loss (MSE): 240.8419
+
+Epoch 16 of 100
+Training Loss (KL plus MSE): 245.6872
+Training Loss (MSE): 240.8335
+Training Loss (KL): 4.8537
+Val Loss: 255.6757
+Val KL Loss: 14.8324
+Val Recon Loss (MSE): 240.8434
+
+Epoch 17 of 100
+Training Loss (KL plus MSE): 245.7373
+Training Loss (MSE): 240.8324
+Training Loss (KL): 4.9049
+Val Loss: 253.6015
+Val KL Loss: 12.7572
+Val Recon Loss (MSE): 240.8443
+
+Epoch 18 of 100
+Training Loss (KL plus MSE): 245.6980
+Training Loss (MSE): 240.8315
+Training Loss (KL): 4.8665
+Val Loss: 251.7773
+Val KL Loss: 10.9334
+Val Recon Loss (MSE): 240.8439
+
+Epoch 19 of 100
+Training Loss (KL plus MSE): 245.5621
+Training Loss (MSE): 240.8309
+Training Loss (KL): 4.7312
+Val Loss: 250.1604
+Val KL Loss: 9.3191
+Val Recon Loss (MSE): 240.8413
+
+Epoch 20 of 100
+Training Loss (KL plus MSE): 245.3423
+Training Loss (MSE): 240.8303
+Training Loss (KL): 4.5120
+Val Loss: 248.7549
+Val KL Loss: 7.9154
+Val Recon Loss (MSE): 240.8395
+
+Epoch 21 of 100
+Training Loss (KL plus MSE): 245.0609
+Training Loss (MSE): 240.8299
+Training Loss (KL): 4.2310
+Val Loss: 247.5662
+Val KL Loss: 6.7292
+Val Recon Loss (MSE): 240.8371
+
+Epoch 22 of 100
+Training Loss (KL plus MSE): 244.7570
+Training Loss (MSE): 240.8294
+Training Loss (KL): 3.9276
+Val Loss: 246.5946
+Val KL Loss: 5.7601
+Val Recon Loss (MSE): 240.8345
+
+Epoch 23 of 100
+Training Loss (KL plus MSE): 244.4604
+Training Loss (MSE): 240.8289
+Training Loss (KL): 3.6315
+Val Loss: 245.8232
+Val KL Loss: 4.9903
+Val Recon Loss (MSE): 240.8329
+
+Epoch 24 of 100
+Training Loss (KL plus MSE): 244.1952
+Training Loss (MSE): 240.8286
+Training Loss (KL): 3.3666
+Val Loss: 245.2350
+Val KL Loss: 4.4040
+Val Recon Loss (MSE): 240.8310
+
+Epoch 25 of 100
+Training Loss (KL plus MSE): 243.9781
+Training Loss (MSE): 240.8284
+Training Loss (KL): 3.1497
+Val Loss: 244.7983
+Val KL Loss: 3.9680
+Val Recon Loss (MSE): 240.8303
+
+Epoch 26 of 100
+Training Loss (KL plus MSE): 243.8102
+Training Loss (MSE): 240.8284
+Training Loss (KL): 2.9818
+Val Loss: 244.4808
+Val KL Loss: 3.6510
+Val Recon Loss (MSE): 240.8298
+
+Epoch 27 of 100
+Training Loss (KL plus MSE): 243.6876
+Training Loss (MSE): 240.8281
+Training Loss (KL): 2.8595
+Val Loss: 244.2519
+Val KL Loss: 3.4223
+Val Recon Loss (MSE): 240.8296
+
+Epoch 28 of 100
+Training Loss (KL plus MSE): 243.6008
+Training Loss (MSE): 240.8278
+Training Loss (KL): 2.7730
+Val Loss: 244.0835
+Val KL Loss: 3.2537
+Val Recon Loss (MSE): 240.8297
+
+Epoch 29 of 100
+Training Loss (KL plus MSE): 243.5380
+Training Loss (MSE): 240.8275
+Training Loss (KL): 2.7105
+Val Loss: 243.9550
+Val KL Loss: 3.1250
+Val Recon Loss (MSE): 240.8300
+
+Epoch 30 of 100
+Training Loss (KL plus MSE): 243.4901
+Training Loss (MSE): 240.8273
+Training Loss (KL): 2.6628
+Val Loss: 243.8483
+Val KL Loss: 3.0186
+Val Recon Loss (MSE): 240.8297
+
+Epoch 31 of 100
+Training Loss (KL plus MSE): 243.4476
+Training Loss (MSE): 240.8269
+Training Loss (KL): 2.6207
+Val Loss: 243.7529
+Val KL Loss: 2.9239
+Val Recon Loss (MSE): 240.8290
+
+Epoch 32 of 100
+Training Loss (KL plus MSE): 243.4056
+Training Loss (MSE): 240.8267
+Training Loss (KL): 2.5789
+Val Loss: 243.6655
+Val KL Loss: 2.8352
+Val Recon Loss (MSE): 240.8303
+
+Epoch 33 of 100
+Training Loss (KL plus MSE): 243.3607
+Training Loss (MSE): 240.8265
+Training Loss (KL): 2.5342
+Val Loss: 243.5794
+Val KL Loss: 2.7492
+Val Recon Loss (MSE): 240.8302
+
+Epoch 34 of 100
+Training Loss (KL plus MSE): 243.3118
+Training Loss (MSE): 240.8264
+Training Loss (KL): 2.4854
+Val Loss: 243.4947
+Val KL Loss: 2.6658
+Val Recon Loss (MSE): 240.8289
+
+Epoch 35 of 100
+Training Loss (KL plus MSE): 243.2599
+Training Loss (MSE): 240.8263
+Training Loss (KL): 2.4337
+Val Loss: 243.4138
+Val KL Loss: 2.5853
+Val Recon Loss (MSE): 240.8285
+
+Epoch 36 of 100
+Training Loss (KL plus MSE): 243.2065
+Training Loss (MSE): 240.8260
+Training Loss (KL): 2.3805
+Val Loss: 243.3372
+Val KL Loss: 2.5096
+Val Recon Loss (MSE): 240.8275
+
+Epoch 37 of 100
+Training Loss (KL plus MSE): 243.1568
+Training Loss (MSE): 240.8285
+Training Loss (KL): 2.3284
+Val Loss: 243.2736
+Val KL Loss: 2.4403
+Val Recon Loss (MSE): 240.8333
+
+Epoch 38 of 100
+Training Loss (KL plus MSE): 243.1057
+Training Loss (MSE): 240.8268
+Training Loss (KL): 2.2789
+Val Loss: 243.2197
+Val KL Loss: 2.3778
+Val Recon Loss (MSE): 240.8419
+
+Epoch 39 of 100
+Training Loss (KL plus MSE): 243.0596
+Training Loss (MSE): 240.8263
+Training Loss (KL): 2.2333
+Val Loss: 243.1611
+Val KL Loss: 2.3225
+Val Recon Loss (MSE): 240.8386
+
+Epoch 40 of 100
+Training Loss (KL plus MSE): 243.0184
+Training Loss (MSE): 240.8263
+Training Loss (KL): 2.1920
+Val Loss: 243.1093
+Val KL Loss: 2.2736
+Val Recon Loss (MSE): 240.8358
+
+Epoch 41 of 100
+Training Loss (KL plus MSE): 242.9812
+Training Loss (MSE): 240.8264
+Training Loss (KL): 2.1548
+Val Loss: 243.0640
+Val KL Loss: 2.2302
+Val Recon Loss (MSE): 240.8338
+
+Epoch 42 of 100
+Training Loss (KL plus MSE): 242.9472
+Training Loss (MSE): 240.8262
+Training Loss (KL): 2.1210
+Val Loss: 243.0235
+Val KL Loss: 2.1910
+Val Recon Loss (MSE): 240.8325
+
+Epoch 43 of 100
+Training Loss (KL plus MSE): 242.9154
+Training Loss (MSE): 240.8257
+Training Loss (KL): 2.0897
+Val Loss: 242.9833
+Val KL Loss: 2.1548
+Val Recon Loss (MSE): 240.8286
+
+Epoch 44 of 100
+Training Loss (KL plus MSE): 242.8859
+Training Loss (MSE): 240.8259
+Training Loss (KL): 2.0600
+Val Loss: 242.9485
+Val KL Loss: 2.1206
+Val Recon Loss (MSE): 240.8280
+
+Epoch 45 of 100
+Training Loss (KL plus MSE): 242.8569
+Training Loss (MSE): 240.8256
+Training Loss (KL): 2.0313
+Val Loss: 242.9164
+Val KL Loss: 2.0877
+Val Recon Loss (MSE): 240.8287
+
+Epoch 46 of 100
+Training Loss (KL plus MSE): 242.8287
+Training Loss (MSE): 240.8257
+Training Loss (KL): 2.0031
+Val Loss: 242.8832
+Val KL Loss: 2.0559
+Val Recon Loss (MSE): 240.8273
+
+Epoch 47 of 100
+Training Loss (KL plus MSE): 242.8005
+Training Loss (MSE): 240.8253
+Training Loss (KL): 1.9752
+Val Loss: 242.8513
+Val KL Loss: 2.0249
+Val Recon Loss (MSE): 240.8264
+
+Epoch 48 of 100
+Training Loss (KL plus MSE): 242.7731
+Training Loss (MSE): 240.8254
+Training Loss (KL): 1.9477
+Val Loss: 242.8197
+Val KL Loss: 1.9949
+Val Recon Loss (MSE): 240.8249
+
+Epoch 49 of 100
+Training Loss (KL plus MSE): 242.7458
+Training Loss (MSE): 240.8250
+Training Loss (KL): 1.9208
+Val Loss: 242.7914
+Val KL Loss: 1.9659
+Val Recon Loss (MSE): 240.8255
+
+Epoch 50 of 100
+Training Loss (KL plus MSE): 242.7196
+Training Loss (MSE): 240.8251
+Training Loss (KL): 1.8946
+Val Loss: 242.7633
+Val KL Loss: 1.9381
+Val Recon Loss (MSE): 240.8252
+
+Epoch 51 of 100
+Training Loss (KL plus MSE): 242.6939
+Training Loss (MSE): 240.8246
+Training Loss (KL): 1.8693
+Val Loss: 242.7364
+Val KL Loss: 1.9116
+Val Recon Loss (MSE): 240.8247
+
+Epoch 52 of 100
+Training Loss (KL plus MSE): 242.6696
+Training Loss (MSE): 240.8247
+Training Loss (KL): 1.8449
+Val Loss: 242.7106
+Val KL Loss: 1.8863
+Val Recon Loss (MSE): 240.8243
+
+Epoch 53 of 100
+Training Loss (KL plus MSE): 242.6463
+Training Loss (MSE): 240.8247
+Training Loss (KL): 1.8216
+Val Loss: 242.6864
+Val KL Loss: 1.8621
+Val Recon Loss (MSE): 240.8243
+
+Epoch 54 of 100
+Training Loss (KL plus MSE): 242.6236
+Training Loss (MSE): 240.8244
+Training Loss (KL): 1.7991
+Val Loss: 242.6633
+Val KL Loss: 1.8389
+Val Recon Loss (MSE): 240.8244
+
+Epoch 55 of 100
+Training Loss (KL plus MSE): 242.6018
+Training Loss (MSE): 240.8243
+Training Loss (KL): 1.7775
+Val Loss: 242.6407
+Val KL Loss: 1.8166
+Val Recon Loss (MSE): 240.8241
+
+Epoch 56 of 100
+Training Loss (KL plus MSE): 242.5808
+Training Loss (MSE): 240.8242
+Training Loss (KL): 1.7566
+Val Loss: 242.6191
+Val KL Loss: 1.7951
+Val Recon Loss (MSE): 240.8240
+
+Epoch 57 of 100
+Training Loss (KL plus MSE): 242.5604
+Training Loss (MSE): 240.8241
+Training Loss (KL): 1.7363
+Val Loss: 242.5980
+Val KL Loss: 1.7742
+Val Recon Loss (MSE): 240.8239
+
+Epoch 58 of 100
+Training Loss (KL plus MSE): 242.5405
+Training Loss (MSE): 240.8239
+Training Loss (KL): 1.7165
+Val Loss: 242.5776
+Val KL Loss: 1.7538
+Val Recon Loss (MSE): 240.8238
+
+Epoch 59 of 100
+Training Loss (KL plus MSE): 242.5211
+Training Loss (MSE): 240.8238
+Training Loss (KL): 1.6972
+Val Loss: 242.5577
+Val KL Loss: 1.7340
+Val Recon Loss (MSE): 240.8237
+
+Epoch 60 of 100
+Training Loss (KL plus MSE): 242.5023
+Training Loss (MSE): 240.8238
+Training Loss (KL): 1.6784
+Val Loss: 242.5383
+Val KL Loss: 1.7147
+Val Recon Loss (MSE): 240.8236
+
+Epoch 61 of 100
+Training Loss (KL plus MSE): 242.4837
+Training Loss (MSE): 240.8237
+Training Loss (KL): 1.6600
+Val Loss: 242.5198
+Val KL Loss: 1.6959
+Val Recon Loss (MSE): 240.8238
+
+Epoch 62 of 100
+Training Loss (KL plus MSE): 242.4658
+Training Loss (MSE): 240.8237
+Training Loss (KL): 1.6421
+Val Loss: 242.5014
+Val KL Loss: 1.6776
+Val Recon Loss (MSE): 240.8238
+
+Epoch 63 of 100
+Training Loss (KL plus MSE): 242.4481
+Training Loss (MSE): 240.8236
+Training Loss (KL): 1.6246
+Val Loss: 242.4836
+Val KL Loss: 1.6597
+Val Recon Loss (MSE): 240.8239
+
+Epoch 64 of 100
+Training Loss (KL plus MSE): 242.4311
+Training Loss (MSE): 240.8236
+Training Loss (KL): 1.6075
+Val Loss: 242.4661
+Val KL Loss: 1.6423
+Val Recon Loss (MSE): 240.8238
+
+Epoch 65 of 100
+Training Loss (KL plus MSE): 242.4142
+Training Loss (MSE): 240.8234
+Training Loss (KL): 1.5907
+Val Loss: 242.4489
+Val KL Loss: 1.6253
+Val Recon Loss (MSE): 240.8236
+
+Epoch 66 of 100
+Training Loss (KL plus MSE): 242.3983
+Training Loss (MSE): 240.8239
+Training Loss (KL): 1.5744
+Val Loss: 242.4331
+Val KL Loss: 1.6086
+Val Recon Loss (MSE): 240.8245
+
+Epoch 67 of 100
+Training Loss (KL plus MSE): 242.3820
+Training Loss (MSE): 240.8236
+Training Loss (KL): 1.5584
+Val Loss: 242.4171
+Val KL Loss: 1.5923
+Val Recon Loss (MSE): 240.8248
+
+Epoch 68 of 100
+Training Loss (KL plus MSE): 242.3665
+Training Loss (MSE): 240.8238
+Training Loss (KL): 1.5427
+Val Loss: 242.4011
+Val KL Loss: 1.5763
+Val Recon Loss (MSE): 240.8248
+
+Epoch 69 of 100
+Training Loss (KL plus MSE): 242.3510
+Training Loss (MSE): 240.8237
+Training Loss (KL): 1.5273
+Val Loss: 242.3848
+Val KL Loss: 1.5606
+Val Recon Loss (MSE): 240.8242
+
+Epoch 70 of 100
+Training Loss (KL plus MSE): 242.3357
+Training Loss (MSE): 240.8236
+Training Loss (KL): 1.5121
+Val Loss: 242.3693
+Val KL Loss: 1.5451
+Val Recon Loss (MSE): 240.8242
+
+Epoch 71 of 100
+Training Loss (KL plus MSE): 242.3208
+Training Loss (MSE): 240.8236
+Training Loss (KL): 1.4972
+Val Loss: 242.3541
+Val KL Loss: 1.5300
+Val Recon Loss (MSE): 240.8242
+
+Epoch 72 of 100
+Training Loss (KL plus MSE): 242.3061
+Training Loss (MSE): 240.8235
+Training Loss (KL): 1.4826
+Val Loss: 242.3388
+Val KL Loss: 1.5151
+Val Recon Loss (MSE): 240.8238
+
+Epoch 73 of 100
+Training Loss (KL plus MSE): 242.2918
+Training Loss (MSE): 240.8236
+Training Loss (KL): 1.4682
+Val Loss: 242.3242
+Val KL Loss: 1.5004
+Val Recon Loss (MSE): 240.8238
+
+Epoch 74 of 100
+Training Loss (KL plus MSE): 242.2776
+Training Loss (MSE): 240.8235
+Training Loss (KL): 1.4540
+Val Loss: 242.3099
+Val KL Loss: 1.4860
+Val Recon Loss (MSE): 240.8239
+
+Epoch 75 of 100
+Training Loss (KL plus MSE): 242.2633
+Training Loss (MSE): 240.8232
+Training Loss (KL): 1.4401
+Val Loss: 242.2951
+Val KL Loss: 1.4718
+Val Recon Loss (MSE): 240.8233
+
+Epoch 76 of 100
+Training Loss (KL plus MSE): 242.2496
+Training Loss (MSE): 240.8232
+Training Loss (KL): 1.4264
+Val Loss: 242.2812
+Val KL Loss: 1.4578
+Val Recon Loss (MSE): 240.8234
+
+Epoch 77 of 100
+Training Loss (KL plus MSE): 242.2362
+Training Loss (MSE): 240.8233
+Training Loss (KL): 1.4129
+Val Loss: 242.2671
+Val KL Loss: 1.4441
+Val Recon Loss (MSE): 240.8230
+
+Epoch 78 of 100
+Training Loss (KL plus MSE): 242.2228
+Training Loss (MSE): 240.8232
+Training Loss (KL): 1.3996
+Val Loss: 242.2537
+Val KL Loss: 1.4306
+Val Recon Loss (MSE): 240.8231
+
+Epoch 79 of 100
+Training Loss (KL plus MSE): 242.2097
+Training Loss (MSE): 240.8231
+Training Loss (KL): 1.3865
+Val Loss: 242.2403
+Val KL Loss: 1.4172
+Val Recon Loss (MSE): 240.8231
+
+Epoch 80 of 100
+Training Loss (KL plus MSE): 242.1967
+Training Loss (MSE): 240.8231
+Training Loss (KL): 1.3736
+Val Loss: 242.2272
+Val KL Loss: 1.4041
+Val Recon Loss (MSE): 240.8231
+
+Epoch 81 of 100
+Training Loss (KL plus MSE): 242.1839
+Training Loss (MSE): 240.8230
+Training Loss (KL): 1.3609
+Val Loss: 242.2142
+Val KL Loss: 1.3912
+Val Recon Loss (MSE): 240.8230
+
+Epoch 82 of 100
+Training Loss (KL plus MSE): 242.1714
+Training Loss (MSE): 240.8230
+Training Loss (KL): 1.3484
+Val Loss: 242.2013
+Val KL Loss: 1.3785
+Val Recon Loss (MSE): 240.8229
+
+Epoch 83 of 100
+Training Loss (KL plus MSE): 242.1590
+Training Loss (MSE): 240.8230
+Training Loss (KL): 1.3361
+Val Loss: 242.1890
+Val KL Loss: 1.3659
+Val Recon Loss (MSE): 240.8230
+
+Epoch 84 of 100
+Training Loss (KL plus MSE): 242.1468
+Training Loss (MSE): 240.8229
+Training Loss (KL): 1.3239
+Val Loss: 242.1767
+Val KL Loss: 1.3536
+Val Recon Loss (MSE): 240.8231
+
+Epoch 85 of 100
+Training Loss (KL plus MSE): 242.1347
+Training Loss (MSE): 240.8228
+Training Loss (KL): 1.3120
+Val Loss: 242.1643
+Val KL Loss: 1.3414
+Val Recon Loss (MSE): 240.8228
+
+Epoch 86 of 100
+Training Loss (KL plus MSE): 242.1230
+Training Loss (MSE): 240.8228
+Training Loss (KL): 1.3002
+Val Loss: 242.1520
+Val KL Loss: 1.3295
+Val Recon Loss (MSE): 240.8226
+
+Epoch 87 of 100
+Training Loss (KL plus MSE): 242.1114
+Training Loss (MSE): 240.8228
+Training Loss (KL): 1.2886
+Val Loss: 242.1404
+Val KL Loss: 1.3177
+Val Recon Loss (MSE): 240.8228
+
+Epoch 88 of 100
+Training Loss (KL plus MSE): 242.1000
+Training Loss (MSE): 240.8228
+Training Loss (KL): 1.2771
+Val Loss: 242.1287
+Val KL Loss: 1.3060
+Val Recon Loss (MSE): 240.8227
+
+Epoch 89 of 100
+Training Loss (KL plus MSE): 242.0888
+Training Loss (MSE): 240.8230
+Training Loss (KL): 1.2658
+Val Loss: 242.1175
+Val KL Loss: 1.2946
+Val Recon Loss (MSE): 240.8229
+
+Epoch 90 of 100
+Training Loss (KL plus MSE): 242.0775
+Training Loss (MSE): 240.8227
+Training Loss (KL): 1.2547
+Val Loss: 242.1060
+Val KL Loss: 1.2833
+Val Recon Loss (MSE): 240.8227
+
+Epoch 91 of 100
+Training Loss (KL plus MSE): 242.0666
+Training Loss (MSE): 240.8228
+Training Loss (KL): 1.2438
+Val Loss: 242.0948
+Val KL Loss: 1.2722
+Val Recon Loss (MSE): 240.8226
+
+Epoch 92 of 100
+Training Loss (KL plus MSE): 242.0559
+Training Loss (MSE): 240.8229
+Training Loss (KL): 1.2330
+Val Loss: 242.0842
+Val KL Loss: 1.2613
+Val Recon Loss (MSE): 240.8229
+
+Epoch 93 of 100
+Training Loss (KL plus MSE): 242.0452
+Training Loss (MSE): 240.8228
+Training Loss (KL): 1.2224
+Val Loss: 242.0731
+Val KL Loss: 1.2505
+Val Recon Loss (MSE): 240.8226
+
+Epoch 94 of 100
+Training Loss (KL plus MSE): 242.0348
+Training Loss (MSE): 240.8228
+Training Loss (KL): 1.2120
+Val Loss: 242.0625
+Val KL Loss: 1.2399
+Val Recon Loss (MSE): 240.8226
+
+Epoch 95 of 100
+Training Loss (KL plus MSE): 242.0244
+Training Loss (MSE): 240.8227
+Training Loss (KL): 1.2017
+Val Loss: 242.0519
+Val KL Loss: 1.2294
+Val Recon Loss (MSE): 240.8224
+
+Epoch 96 of 100
+Training Loss (KL plus MSE): 242.0142
+Training Loss (MSE): 240.8227
+Training Loss (KL): 1.1916
+Val Loss: 242.0416
+Val KL Loss: 1.2191
+Val Recon Loss (MSE): 240.8225
+
+Epoch 97 of 100
+Training Loss (KL plus MSE): 242.0042
+Training Loss (MSE): 240.8227
+Training Loss (KL): 1.1816
+Val Loss: 242.0317
+Val KL Loss: 1.2090
+Val Recon Loss (MSE): 240.8227
+
+Epoch 98 of 100
+Training Loss (KL plus MSE): 241.9944
+Training Loss (MSE): 240.8227
+Training Loss (KL): 1.1717
+Val Loss: 242.0216
+Val KL Loss: 1.1990
+Val Recon Loss (MSE): 240.8226
+
+Epoch 99 of 100
+Training Loss (KL plus MSE): 241.9846
+Training Loss (MSE): 240.8226
+Training Loss (KL): 1.1620
+Val Loss: 242.0122
+Val KL Loss: 1.1892
+Val Recon Loss (MSE): 240.8230
+
+Epoch 100 of 100
+Training Loss (KL plus MSE): 241.9751
+Training Loss (MSE): 240.8226
+Training Loss (KL): 1.1525
+Val Loss: 242.0023
+Val KL Loss: 1.1795
+Val Recon Loss (MSE): 240.8228
+

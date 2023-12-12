@@ -1,0 +1,71 @@
+=============================================
+Training with dimension size: 128
+epoch:   1  training loss (rmse): 1.93342924
+epoch:  11  training loss (rmse): 1.67493355
+epoch:  21  training loss (rmse): 1.66496015
+epoch:  31  training loss (rmse): 1.66062403
+epoch:  41  training loss (rmse): 1.52682281
+epoch:  51  training loss (rmse): 1.63121045
+epoch:  61  training loss (rmse): 1.56322944
+epoch:  71  training loss (rmse): 1.52327633
+epoch:  81  training loss (rmse): 1.53970718
+epoch:  91  training loss (rmse): 1.57066774
+epoch: 100  loss: 1.23812616
+
+Training Time: 298 seconds
+
+Validation RMSE: 1.46416557
+
+=============================================
+Training with dimension size: 256
+epoch:   1  training loss (rmse): 1.95564389
+epoch:  11  training loss (rmse): 1.58413160
+epoch:  21  training loss (rmse): 1.59855747
+epoch:  31  training loss (rmse): 1.60752344
+epoch:  41  training loss (rmse): 1.53196990
+epoch:  51  training loss (rmse): 1.52375591
+epoch:  61  training loss (rmse): 1.54309189
+epoch:  71  training loss (rmse): 1.51076055
+epoch:  81  training loss (rmse): 1.48387980
+epoch:  91  training loss (rmse): 1.55637932
+epoch: 100  loss: 1.19500124
+
+Training Time: 277 seconds
+
+Validation RMSE: 1.46676409
+
+=============================================
+Training with dimension size: 512
+epoch:   1  training loss (rmse): 2.07678223
+epoch:  11  training loss (rmse): 1.62224925
+epoch:  21  training loss (rmse): 1.61883342
+epoch:  31  training loss (rmse): 1.64802253
+epoch:  41  training loss (rmse): 1.53773010
+epoch:  51  training loss (rmse): 1.57075834
+epoch:  61  training loss (rmse): 1.57655323
+epoch:  71  training loss (rmse): 1.49505472
+epoch:  81  training loss (rmse): 1.49144411
+epoch:  91  training loss (rmse): 1.53923678
+epoch: 100  loss: 1.21274173
+
+Training Time: 271 seconds
+
+Validation RMSE: 1.43940389
+
+=============================================
+Training with dimension size: 1024
+epoch:   1  training loss (rmse): 1.95188606
+epoch:  11  training loss (rmse): 1.66485238
+epoch:  21  training loss (rmse): 1.67037523
+epoch:  31  training loss (rmse): 1.60700357
+epoch:  41  training loss (rmse): 1.57333040
+epoch:  51  training loss (rmse): 1.56533873
+epoch:  61  training loss (rmse): 1.52143371
+epoch:  71  training loss (rmse): 1.51207769
+epoch:  81  training loss (rmse): 1.46487403
+epoch:  91  training loss (rmse): 1.55339658
+epoch: 100  loss: 1.18692219
+
+Training Time: 269 seconds
+
+Validation RMSE: 1.43116474

@@ -1,0 +1,59 @@
+ ========================================
+
+Performance of 5 fold cross validation 128 dimension:
+
+Average Training Recon Loss: 29326.6407 
+ Average Training KL Loss: 178.0093 
+ Average Training RMSE Loss: 47.752 
+ Average Training Total Loss: 15367.136 
+
+
+Average Testing Recon Loss: 33552.1766 
+ Average Testing KL Loss: 165.0455 
+ Average Testing MSE Loss: 44.016 
+ Average Testing RMSE Loss: 1.209 
+ Average Testing R2 Loss: 0.496
+
+ Performance of 5 fold cross validation 256 dimension:
+
+Average Training Recon Loss: 29446.1912 
+ Average Training KL Loss: 229.3573 
+ Average Training RMSE Loss: 48.378 
+ Average Training Total Loss: 15419.841 
+
+
+Average Testing Recon Loss: 33687.6157 
+ Average Testing KL Loss: 208.6689 
+ Average Testing MSE Loss: 44.453 
+ Average Testing RMSE Loss: 1.221 
+ Average Testing R2 Loss: 0.489
+
+ Performance of 5 fold cross validation 512 dimension:
+
+Average Training Recon Loss: 29416.8430 
+ Average Training KL Loss: 279.2627 
+ Average Training RMSE Loss: 48.852 
+ Average Training Total Loss: 15420.774 
+
+
+Average Testing Recon Loss: 33799.1772 
+ Average Testing KL Loss: 246.1246 
+ Average Testing MSE Loss: 46.093 
+ Average Testing RMSE Loss: 1.239 
+ Average Testing R2 Loss: 0.483
+
+ Performance of 5 fold cross validation 1024 dimension:
+
+Average Training Recon Loss: 29572.3543 
+ Average Training KL Loss: 326.3426 
+ Average Training RMSE Loss: 49.047 
+ Average Training Total Loss: 15508.945 
+
+
+Average Testing Recon Loss: 33969.4532 
+ Average Testing KL Loss: 276.3994 
+ Average Testing MSE Loss: 45.257 
+ Average Testing RMSE Loss: 1.230 
+ Average Testing R2 Loss: 0.483
+
+

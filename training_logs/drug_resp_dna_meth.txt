@@ -1,0 +1,75 @@
+=============================================
+Selected data: dna_meth
+Training with dimension size: 128
+epoch:   1  training loss (rmse): 1.77127957
+epoch:  11  training loss (rmse): 1.12406719
+epoch:  21  training loss (rmse): 1.09121072
+epoch:  31  training loss (rmse): 1.04187536
+epoch:  41  training loss (rmse): 1.01344216
+epoch:  51  training loss (rmse): 1.00445557
+epoch:  61  training loss (rmse): 0.98721081
+epoch:  71  training loss (rmse): 0.96443725
+epoch:  81  training loss (rmse): 0.93733388
+epoch:  91  training loss (rmse): 0.93313253
+epoch: 100  loss: 0.92357862
+
+Training Time: 258 seconds
+1
+Validation RMSE: 1.19066882
+
+=============================================
+Selected data: dna_meth
+Training with dimension size: 256
+epoch:   1  training loss (rmse): 1.80141675
+epoch:  11  training loss (rmse): 1.09792793
+epoch:  21  training loss (rmse): 1.04350328
+epoch:  31  training loss (rmse): 1.02445543
+epoch:  41  training loss (rmse): 1.00943363
+epoch:  51  training loss (rmse): 0.94374388
+epoch:  61  training loss (rmse): 0.95015544
+epoch:  71  training loss (rmse): 0.92337328
+epoch:  81  training loss (rmse): 0.90821731
+epoch:  91  training loss (rmse): 0.91959274
+epoch: 100  loss: 0.89162999
+
+Training Time: 238 seconds
+1
+Validation RMSE: 1.16760969
+
+=============================================
+Selected data: dna_meth
+Training with dimension size: 512
+epoch:   1  training loss (rmse): 1.74292040
+epoch:  11  training loss (rmse): 1.08359289
+epoch:  21  training loss (rmse): 1.03121245
+epoch:  31  training loss (rmse): 1.03813565
+epoch:  41  training loss (rmse): 0.97291923
+epoch:  51  training loss (rmse): 0.91206127
+epoch:  61  training loss (rmse): 0.88531709
+epoch:  71  training loss (rmse): 0.90758991
+epoch:  81  training loss (rmse): 0.87323028
+epoch:  91  training loss (rmse): 0.90211678
+epoch: 100  loss: 0.88451314
+
+Training Time: 245 seconds
+1
+Validation RMSE: 1.15709531
+
+=============================================
+Selected data: dna_meth
+Training with dimension size: 1024
+epoch:   1  training loss (rmse): 1.85131967
+epoch:  11  training loss (rmse): 1.11726809
+epoch:  21  training loss (rmse): 1.05200005
+epoch:  31  training loss (rmse): 0.99245042
+epoch:  41  training loss (rmse): 0.99696368
+epoch:  51  training loss (rmse): 0.95963156
+epoch:  61  training loss (rmse): 0.91518933
+epoch:  71  training loss (rmse): 0.92086262
+epoch:  81  training loss (rmse): 0.89880711
+epoch:  91  training loss (rmse): 0.89212424
+epoch: 100  loss: 0.85599422
+
+Training Time: 238 seconds
+1
+Validation RMSE: 1.15444958

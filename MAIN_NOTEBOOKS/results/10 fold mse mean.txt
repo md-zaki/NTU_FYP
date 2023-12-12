@@ -1,0 +1,61 @@
+multi (concat latent code):
+Performance of 10 fold cross validation 128 dimension:
+
+Average Training DNA Recon Loss: 25620.4533 
+Average Training Gene Recon Loss: 5838.9831 
+ Average Training KL Loss: 140.0437 
+ Average Training RMSE Loss: 3.165 
+ Average Training Total Loss: 8314.906 
+
+
+Average Testing DNA Recon Loss: 28232.5986 
+Average Testing Gene Recon Loss: 4848.6780 
+ Average Testing KL Loss: 131.5742 
+ Average Testing MSE Loss: 31.219 
+ Average Testing RMSE Loss: 1.023 
+ Average Testing R2 Loss: 0.643
+
+====
+common and unique factors
+Performance of 10 fold cross validation using common and unique factors:
+
+Average Testing DNA Recon Loss: 29830.3375 
+Average Testing Gene Recon Loss: 5021.7869 
+ Average Testing DNA KL Loss: 172.4404 
+ Average Testing Gene KL Loss: 8.8428 
+ Average Testing MSE Loss: 32.313 
+ Average Testing RMSE Loss: 1.044 
+ Average Testing Shared Loss: 100.749 
+ Average Testing R2 Loss: 0.628 
+
+====
+ dna:
+ Performance of 10 fold cross validation 128 dimension:
+
+Average Training Recon Loss: 25204.5436 
+ Average Training KL Loss: 184.8737 
+ Average Training RMSE Loss: 3.091 
+ Average Training Total Loss: 12958.131 
+
+
+Average Testing Recon Loss: 27682.7686 
+ Average Testing KL Loss: 171.9494 
+ Average Testing MSE Loss: 30.426 
+ Average Testing RMSE Loss: 1.011 
+ Average Testing R2 Loss: 0.655
+
+====
+ gene:
+ Performance of 10 fold cross validation 128 dimension:
+
+Average Training Recon Loss: 5830.1211 
+ Average Training KL Loss: 15.3085 
+ Average Training RMSE Loss: 4.785 
+ Average Training Total Loss: 3403.060 
+
+
+Average Testing Recon Loss: 4970.9288 
+ Average Testing KL Loss: 9.2613 
+ Average Testing MSE Loss: 39.288 
+ Average Testing RMSE Loss: 1.161 
+ Average Testing R2 Loss: 0.554 
